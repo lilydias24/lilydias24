@@ -52,8 +52,8 @@ Tenho interesse particular em **sistemas explicáveis de IA, migração/reengenh
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lilydias24&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilydias24&layout=compact&theme=tokyonight" />
 </p>
 
 ---
