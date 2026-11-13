@@ -41,6 +41,23 @@ Tenho interesse particular em **sistemas explicáveis de IA, migração/reengenh
 
 <br>
 
+### 🔬 Em desenvolvimento: meu TCC
+
+**Tutor Inteligente para Dedução Natural.** Ferramentas de lógica já dizem se um passo de
+prova está certo; este tutor explica, em linguagem natural, **por que** uma regra falhou
+naquele contexto e sugere o próximo passo.
+
+- **Arquitetura com veto:** o LLM propõe explicações e dicas, mas um motor simbólico
+  verifica formalmente cada passo e nada chega ao estudante sem a aprovação dele.
+- **Privacidade por desenho (LGPD):** os dados da pesquisa usam pseudônimos e só registram
+  quem consentiu, por construção do sistema.
+- **Processo:** Design Science Research, revisão sistemática com 65 estudos, decisões
+  registradas em ADRs e avaliação planejada com uma turma real.
+
+<sub>Python · FastAPI · LLM · React — repositório privado durante o TCC.</sub>
+
+<br>
+
 ### 🚀 Projetos em destaque
 
 <table>
