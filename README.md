@@ -21,6 +21,9 @@ Tenho interesse particular em **sistemas explicáveis de IA, migração/reengenh
 ### 🌐 Onde me encontrar
 
 <p align="left">
+  <a href="https://lilydias24.github.io">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-4C1D95?style=for-the-badge&logo=githubpages&logoColor=ffffff" />
+  </a>
   <a href="https://github.com/lilydias24">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=A78BFA" />
   </a>
