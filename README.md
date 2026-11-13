@@ -45,39 +45,45 @@ Tenho interesse particular em **sistemas explicáveis de IA, migração/reengenh
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <a href="https://github.com/lilydias24/briefing-agent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilydias24&repo=briefing-agent&theme=tokyonight&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" />
+      </a>
+      <br><sub>🤖 <b>IA aplicada</b> — agente com LLM que monta briefings de notícias e entrega por Discord e e-mail; testes e CI.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/lilydias24/rp3-resolucao-de-problemas">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilydias24&repo=rp3-resolucao-de-problemas&theme=tokyonight&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" />
+      </a>
+      <br><sub>🏗️ <b>Back-end e paradigmas</b> — API FastAPI + SQLAlchemy com programação orientada a aspectos, regras lógicas e programação funcional.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/lilydias24/desperdicio-alimentos-buffet">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilydias24&repo=desperdicio-alimentos-buffet&theme=tokyonight&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" />
+      </a>
+      <br><sub>📊 <b>Ciência de dados</b> — pipeline bronze/silver/gold, testes estatísticos e dashboard em Streamlit.</sub>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/lilydias24/AMS_INFO31">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilydias24&repo=AMS_INFO31&theme=tokyonight&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" />
       </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/lilydias24/RPIII">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilydias24&repo=RPIII&theme=tokyonight&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" />
-      </a>
+      <br><sub>🎓 <b>Primeiro sistema completo</b> — controle de acesso ao campus por QR Code, em PHP e MySQL (TCC do técnico).</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/lilydias24/AlgoritmosProg_ES">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilydias24&repo=AlgoritmosProg_ES&theme=tokyonight&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" />
+    <td width="50%" valign="top">
+      <a href="https://github.com/lilydias24/Trab_ESseg">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilydias24&repo=Trab_ESseg&theme=tokyonight&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" />
       </a>
+      <br><sub>🔐 <b>Segurança</b> — modelagem STRIDE, riscos com NIST CSF e regras de detecção de intrusão para um sistema hospitalar.</sub>
     </td>
-    <td width="50%">
-      <a href="https://github.com/lilydias24/RP_Testes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilydias24&repo=RP_Testes&theme=tokyonight&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" />
+    <td width="50%" valign="top">
+      <a href="https://github.com/lilydias24/AtivInterativa_Redes">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilydias24&repo=AtivInterativa_Redes&theme=tokyonight&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" />
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/lilydias24/EstruturaDados">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilydias24&repo=EstruturaDados&theme=tokyonight&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/lilydias24/CRUD_TOP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilydias24&repo=CRUD_TOP&theme=tokyonight&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" />
-      </a>
+      <br><sub>🌐 <b>Redes e IA</b> — assistente que orquestra servidores MCP, com MQTT e HTTP/SSE.</sub>
     </td>
   </tr>
 </table>
@@ -91,11 +97,23 @@ Tenho interesse particular em **sistemas explicáveis de IA, migração/reengenh
 ![Python](https://img.shields.io/badge/Python-1E1B4B?style=for-the-badge&logo=python&logoColor=A78BFA)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1E1B4B?style=for-the-badge&logo=fastapi&logoColor=60A5FA)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1B4B?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1E1B4B?style=for-the-badge&logo=sqlalchemy&logoColor=60A5FA)
+![Pandas](https://img.shields.io/badge/Pandas-1E1B4B?style=for-the-badge&logo=pandas&logoColor=A78BFA)
+![Streamlit](https://img.shields.io/badge/Streamlit-1E1B4B?style=for-the-badge&logo=streamlit&logoColor=60A5FA)
+![PHP](https://img.shields.io/badge/PHP-1E1B4B?style=for-the-badge&logo=php&logoColor=A78BFA)
+![MySQL](https://img.shields.io/badge/MySQL-1E1B4B?style=for-the-badge&logo=mysql&logoColor=60A5FA)
+![Java](https://img.shields.io/badge/Java-1E1B4B?style=for-the-badge&logo=openjdk&logoColor=A78BFA)
+
+**Front-end**
+
+![React](https://img.shields.io/badge/React-1E1B4B?style=for-the-badge&logo=react&logoColor=60A5FA)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E1B4B?style=for-the-badge&logo=typescript&logoColor=A78BFA)
 
 **DevOps & Ferramentas**
 
 ![Docker](https://img.shields.io/badge/Docker-1E1B4B?style=for-the-badge&logo=docker&logoColor=60A5FA)
 ![Git](https://img.shields.io/badge/Git-1E1B4B?style=for-the-badge&logo=git&logoColor=A78BFA)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1E1B4B?style=for-the-badge&logo=githubactions&logoColor=60A5FA)
 
 **Documentação & Análise**
 
