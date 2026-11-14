@@ -12,7 +12,7 @@
 
 <br>
 
-## 🌸 Sobre mim
+## 🌟 Sobre mim
 
 Sou estudante de **Engenharia de Software** na **UNIPAMPA**, Campus Alegrete 🇧🇷. Trabalho com **arquitetura de software, IA aplicada e análise de dados**, unindo teoria acadêmica e implementação prática em projetos de pesquisa e disciplinas do curso.
 
