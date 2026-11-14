@@ -1,163 +1,121 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:2563EB&height=180&section=header&text=Emilly%20Dias&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Engenharia%20de%20Software%20%7C%20IA%20Aplicada%20%7C%20Arquitetura%20de%20Software&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:500724,50:9D174D,100:DB2777&height=190&section=header&text=Emilly%20Dias&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Engenharia%20de%20Software%20%C2%B7%20IA%20Aplicada%20%C2%B7%20Arquitetura%20de%20Software&descAlignY=56&descSize=16" width="100%"/>
 
-<a href="https://github.com/lilydias24">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software+%40+UNIPAMPA;Arquitetura+de+software+%26+IA+aplicada;Sistemas+explic%C3%A1veis+de+IA+%26+m%C3%A9tricas+de+qualidade;Sempre+aprendendo%2C+sempre+construindo" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=EC4899&center=true&vCenter=true&width=620&lines=Estudante+de+Engenharia+de+Software+na+UNIPAMPA;IA+aplicada+e+arquitetura+de+software;Sistemas+explic%C3%A1veis+de+IA;Sempre+aprendendo%2C+sempre+construindo" alt="Estudante de Engenharia de Software na UNIPAMPA" />
+
+<br>
+
+<a href="https://lilydias24.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-DB2777?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"/></a>&nbsp;<a href="https://www.linkedin.com/in/emilly-dias-87864922b"><img src="https://img.shields.io/badge/LinkedIn-9D174D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
 
----
+<br>
 
-### 👋 Sobre mim
+## 🌸 Sobre mim
 
-Sou estudante de **Engenharia de Software** na **UNIPAMPA**, Campus Alegrete 🇧🇷, com experiência em **arquitetura de software, IA aplicada e análise de dados** — unindo teoria acadêmica com implementação prática em projetos de pesquisa e disciplinas do curso.
+Sou estudante de **Engenharia de Software** na **UNIPAMPA**, Campus Alegrete 🇧🇷. Trabalho com **arquitetura de software, IA aplicada e análise de dados**, unindo teoria acadêmica e implementação prática em projetos de pesquisa e disciplinas do curso.
 
-Tenho interesse particular em **sistemas explicáveis de IA, migração/reengenharia de arquitetura e métricas de qualidade de software**, e busco atuar profissionalmente com **arquitetura de software e IA aplicada**, unindo pesquisa acadêmica e soluções práticas de engenharia.
+Tenho interesse em **sistemas explicáveis de IA**, **reengenharia de arquitetura** e **métricas de qualidade de software**, e quero atuar com arquitetura de software e IA aplicada.
 
 <br>
 
-### 🌐 Onde me encontrar
+## 🔬 Agora
 
-<p align="left">
-  <a href="https://lilydias24.github.io">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-4C1D95?style=for-the-badge&logo=githubpages&logoColor=ffffff" />
-  </a>
-  <a href="https://github.com/lilydias24">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=A78BFA" />
-  </a>
-  <a href="https://www.linkedin.com/in/emilly-dias-87864922b">
-    <img src="https://img.shields.io/badge/LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=60A5FA" />
-  </a>
-</p>
+> **Meu TCC: Tutor Inteligente para Dedução Natural**
+>
+> Ferramentas de lógica já dizem se um passo de prova está certo. Este tutor explica, em linguagem natural, **por que** uma regra falhou naquele contexto e sugere o próximo passo.
+>
+> - 🧩 **Arquitetura com veto:** o LLM propõe explicações e dicas, e um motor simbólico verifica cada passo. Nada chega ao estudante sem a aprovação dele.
+> - 🔒 **Privacidade por desenho:** os dados da pesquisa usam pseudônimos e só registram quem consentiu (LGPD).
+> - 📚 **Método:** Design Science Research, revisão sistemática com 65 estudos, decisões em ADRs e avaliação com uma turma real.
+>
+> <sub>Python · FastAPI · LLM · React · repositório privado durante o TCC</sub>
 
-<br>
+**Também estudando**
 
-### 🧠 Em que estou trabalhando
-
-- 🔍 Módulo de IA explicativa para tutor de Dedução Natural (TCC + Lab. de IA Aplicada)
-- 🏗️ Estudo de migração arquitetural Firebase → PostgreSQL com arquitetura hexagonal e assistência de LLM
-- 📏 Métricas e medição de software (GQM, métricas ágeis: Story Points, Burndown, Velocity, Cycle Time)
+- 🏗️ Migração arquitetural de Firebase para PostgreSQL com arquitetura hexagonal e apoio de LLM
+- 📏 Métricas e medição de software: GQM, Story Points, Burndown, Velocity e Cycle Time
 - 🐳 APIs HTTP conteinerizadas e análise de tráfego de rede
-- 📚 Pesquisa acadêmica: revisões sistemáticas de literatura e análise de dados mistos (quali + quanti)
+- 📖 Revisões sistemáticas de literatura e análise de dados mistos (quali e quanti)
 
 <br>
 
-### 🔬 Em desenvolvimento: meu TCC
-
-**Tutor Inteligente para Dedução Natural.** Ferramentas de lógica já dizem se um passo de
-prova está certo; este tutor explica, em linguagem natural, **por que** uma regra falhou
-naquele contexto e sugere o próximo passo.
-
-- **Arquitetura com veto:** o LLM propõe explicações e dicas, mas um motor simbólico
-  verifica formalmente cada passo e nada chega ao estudante sem a aprovação dele.
-- **Privacidade por desenho (LGPD):** os dados da pesquisa usam pseudônimos e só registram
-  quem consentiu, por construção do sistema.
-- **Processo:** Design Science Research, revisão sistemática com 65 estudos, decisões
-  registradas em ADRs e avaliação planejada com uma turma real.
-
-<sub>Python · FastAPI · LLM · React — repositório privado durante o TCC.</sub>
-
-<br>
-
-### 🚀 Projetos em destaque
+## 🚀 Projetos em destaque
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/lilydias24/briefing-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilydias24&repo=briefing-agent&theme=tokyonight&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" />
-      </a>
-      <br><sub>🤖 <b>IA aplicada</b> — agente com LLM que monta briefings de notícias e entrega por Discord e e-mail; testes e CI.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/lilydias24/rp3-resolucao-de-problemas">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilydias24&repo=rp3-resolucao-de-problemas&theme=tokyonight&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" />
-      </a>
-      <br><sub>🏗️ <b>Back-end e paradigmas</b> — API FastAPI + SQLAlchemy com programação orientada a aspectos, regras lógicas e programação funcional.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/lilydias24/desperdicio-alimentos-buffet">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilydias24&repo=desperdicio-alimentos-buffet&theme=tokyonight&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" />
-      </a>
-      <br><sub>📊 <b>Ciência de dados</b> — pipeline bronze/silver/gold, testes estatísticos e dashboard em Streamlit.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/lilydias24/AMS_INFO31">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilydias24&repo=AMS_INFO31&theme=tokyonight&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" />
-      </a>
-      <br><sub>🎓 <b>Primeiro sistema completo</b> — controle de acesso ao campus por QR Code, em PHP e MySQL (TCC do técnico).</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/lilydias24/Trab_ESseg">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilydias24&repo=Trab_ESseg&theme=tokyonight&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" />
-      </a>
-      <br><sub>🔐 <b>Segurança</b> — modelagem STRIDE, riscos com NIST CSF e regras de detecção de intrusão para um sistema hospitalar.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/lilydias24/AtivInterativa_Redes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lilydias24&repo=AtivInterativa_Redes&theme=tokyonight&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" />
-      </a>
-      <br><sub>🌐 <b>Redes e IA</b> — assistente que orquestra servidores MCP, com MQTT e HTTP/SSE.</sub>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/lilydias24/briefing-agent"><img src="https://lilydias24.github.io/assets/thumbs/briefing.webp" alt="E-mail de briefing gerado pelo agente" width="100%"/></a>
+
+**[Briefing Agent](https://github.com/lilydias24/briefing-agent)** · `IA aplicada`<br>
+<sub>Agente com LLM que monta briefings de notícias e entrega por Discord e e-mail, com testes e CI.</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/lilydias24/rp3-resolucao-de-problemas"><img src="https://lilydias24.github.io/assets/thumbs/rp3-api.webp" alt="Documentação da API FastAPI" width="100%"/></a>
+
+**[Resolução de Problemas III](https://github.com/lilydias24/rp3-resolucao-de-problemas)** · `Back-end`<br>
+<sub>API FastAPI e SQLAlchemy com programação orientada a aspectos, regras lógicas e programação funcional.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/lilydias24/desperdicio-alimentos-buffet"><img src="https://lilydias24.github.io/assets/thumbs/buffet.webp" alt="Dashboard de desperdício de alimentos" width="100%"/></a>
+
+**[Desperdício em buffets](https://github.com/lilydias24/desperdicio-alimentos-buffet)** · `Dados`<br>
+<sub>Pipeline bronze, silver e gold, testes estatísticos e dashboard em Streamlit.</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/lilydias24/AMS_INFO31"><img src="https://lilydias24.github.io/assets/thumbs/ams.webp" alt="Histórico de acessos ao campus" width="100%"/></a>
+
+**[Acesso ao campus](https://github.com/lilydias24/AMS_INFO31)** · `Primeiro sistema`<br>
+<sub>Controle de entrada e saída por QR Code em PHP e MySQL. TCC do Técnico em Informática.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/lilydias24/Trab_ESseg"><img src="https://lilydias24.github.io/assets/thumbs/esseg.webp" alt="Diagrama de arquitetura segura" width="100%"/></a>
+
+**[Segurança de um sistema hospitalar](https://github.com/lilydias24/Trab_ESseg)** · `Segurança`<br>
+<sub>Modelagem STRIDE, riscos com NIST CSF e regras de detecção de intrusão.</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/lilydias24/AtivInterativa_Redes"><img src="https://lilydias24.github.io/assets/thumbs/redes.svg" alt="MCP, MQTT e HTTP/SSE" width="100%"/></a>
+
+**[Fazenda inteligente com MCP](https://github.com/lilydias24/AtivInterativa_Redes)** · `Redes e IA`<br>
+<sub>Assistente que orquestra servidores MCP, com MQTT e HTTP/SSE.</sub>
+</td>
+</tr>
 </table>
 
-<br>
-
-### 🛠️ Tech Stack
-
-**Backend & Dados**
-
-![Python](https://img.shields.io/badge/Python-1E1B4B?style=for-the-badge&logo=python&logoColor=A78BFA)
-![FastAPI](https://img.shields.io/badge/FastAPI-1E1B4B?style=for-the-badge&logo=fastapi&logoColor=60A5FA)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1B4B?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1E1B4B?style=for-the-badge&logo=sqlalchemy&logoColor=60A5FA)
-![Pandas](https://img.shields.io/badge/Pandas-1E1B4B?style=for-the-badge&logo=pandas&logoColor=A78BFA)
-![Streamlit](https://img.shields.io/badge/Streamlit-1E1B4B?style=for-the-badge&logo=streamlit&logoColor=60A5FA)
-![PHP](https://img.shields.io/badge/PHP-1E1B4B?style=for-the-badge&logo=php&logoColor=A78BFA)
-![MySQL](https://img.shields.io/badge/MySQL-1E1B4B?style=for-the-badge&logo=mysql&logoColor=60A5FA)
-![Java](https://img.shields.io/badge/Java-1E1B4B?style=for-the-badge&logo=openjdk&logoColor=A78BFA)
-
-**Front-end**
-
-![React](https://img.shields.io/badge/React-1E1B4B?style=for-the-badge&logo=react&logoColor=60A5FA)
-![TypeScript](https://img.shields.io/badge/TypeScript-1E1B4B?style=for-the-badge&logo=typescript&logoColor=A78BFA)
-
-**DevOps & Ferramentas**
-
-![Docker](https://img.shields.io/badge/Docker-1E1B4B?style=for-the-badge&logo=docker&logoColor=60A5FA)
-![Git](https://img.shields.io/badge/Git-1E1B4B?style=for-the-badge&logo=git&logoColor=A78BFA)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1E1B4B?style=for-the-badge&logo=githubactions&logoColor=60A5FA)
-
-**Documentação & Análise**
-
-![LaTeX](https://img.shields.io/badge/LaTeX-1E1B4B?style=for-the-badge&logo=latex&logoColor=60A5FA)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1E1B4B?style=for-the-badge&logo=python&logoColor=A78BFA)
+<p align="center"><a href="https://lilydias24.github.io"><b>Ver todos os projetos no portfólio →</b></a></p>
 
 <br>
 
-### 📊 GitHub Stats
+## 🛠️ Tecnologias
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lilydias24&show_icons=true&theme=tokyonight&count_private=true&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=60A5FA" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilydias24&layout=compact&theme=tokyonight&border_color=4C1D95&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
-</p>
+| | |
+| :-- | :-- |
+| **Back-end** | ![Python](https://img.shields.io/badge/Python-500724?style=flat-square&logo=python&logoColor=F9A8D4) ![FastAPI](https://img.shields.io/badge/FastAPI-500724?style=flat-square&logo=fastapi&logoColor=F9A8D4) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-500724?style=flat-square&logo=sqlalchemy&logoColor=F9A8D4) ![PHP](https://img.shields.io/badge/PHP-500724?style=flat-square&logo=php&logoColor=F9A8D4) ![Java](https://img.shields.io/badge/Java-500724?style=flat-square&logo=openjdk&logoColor=F9A8D4) |
+| **Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9D174D?style=flat-square&logo=postgresql&logoColor=FBCFE8) ![MySQL](https://img.shields.io/badge/MySQL-9D174D?style=flat-square&logo=mysql&logoColor=FBCFE8) ![Pandas](https://img.shields.io/badge/Pandas-9D174D?style=flat-square&logo=pandas&logoColor=FBCFE8) ![Streamlit](https://img.shields.io/badge/Streamlit-9D174D?style=flat-square&logo=streamlit&logoColor=FBCFE8) ![Matplotlib](https://img.shields.io/badge/Matplotlib-9D174D?style=flat-square&logo=python&logoColor=FBCFE8) |
+| **Front-end** | ![React](https://img.shields.io/badge/React-BE185D?style=flat-square&logo=react&logoColor=FCE7F3) ![TypeScript](https://img.shields.io/badge/TypeScript-BE185D?style=flat-square&logo=typescript&logoColor=FCE7F3) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-DB2777?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-DB2777?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-DB2777?style=flat-square&logo=githubactions&logoColor=white) |
+| **Documentação** | ![LaTeX](https://img.shields.io/badge/LaTeX-EC4899?style=flat-square&logo=latex&logoColor=white) |
 
-<img src="https://streak-stats.demolab.com/?user=lilydias24&theme=tokyonight&border=4C1D95&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA" />
+<br>
 
----
+## 📊 Atividade
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=lilydias24&background=FDF2F8&border=F9A8D4&ring=EC4899&fire=DB2777&currStreakNum=9D174D&sideNums=9D174D&currStreakLabel=BE185D&sideLabels=BE185D&dates=BE185D&stroke=F9A8D4&locale=pt_br" alt="Sequência de contribuições"/>
+</div>
+
+<br>
 
 <div align="center">
 
-⭐ **Se curtir algum projeto, deixe uma estrela**
-🤝 **Aberta a colaborações e trocas sobre engenharia de software e IA aplicada**
+🌷 **Aberta a colaborações e trocas sobre engenharia de software e IA aplicada**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4C1D95,100:1E1B4B&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DB2777,50:9D174D,100:500724&height=100&section=footer" width="100%"/>
 
 </div>
